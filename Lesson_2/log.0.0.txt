@@ -1,0 +1,8 @@
+апр. 19, 2024 11:05:27 PM Task_5 writeFileNamesToFIle
+INFO: Привет
+апр. 19, 2024 11:06:16 PM Task_5 writeFileNamesToFIle
+INFO: Привет
+апр. 19, 2024 11:06:21 PM Task_5 writeFileNamesToFIle
+INFO: Привет
+апр. 19, 2024 11:08:08 PM Task_5 writeFileNamesToFIle
+INFO: ОШИБКА

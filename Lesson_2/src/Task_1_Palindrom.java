@@ -4,7 +4,7 @@
 
 public class Task_1_Palindrom {
     public static void main(String[] args) {
-        System.out.println(isPalindrom(" анна "));
+        System.out.println(isPalindrom(" а роза УПАЛА на лапу АзорА "));
     }
 
     public static boolean isPalindrom(String str) {
@@ -23,4 +23,4 @@ public class Task_1_Palindrom {
         return true;
 
     }
-    }
+}
